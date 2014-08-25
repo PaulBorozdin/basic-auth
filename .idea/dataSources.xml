@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1205774391">
+    <data-source source="LOCAL" name="Rails basic-auth: development" uuid="73f4824e-d06c-49bc-8337-f5ff1a1d13ea">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:basic-auth_development</jdbc-url>
+      <user-name>myapp</user-name>
+      <user-password>dfc7dfd3dfcbdfdadfda</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails basic-auth: test" uuid="44837561-4be7-4cc0-9ab1-1baeed5592e1">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:basic-auth_test</jdbc-url>
+      <user-name>myapp</user-name>
+      <user-password>dfc7dfd3dfcbdfdadfda</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails basic-auth: production" uuid="e64fdf41-c4ff-4903-84b4-f53a6aef2c71">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:basic-auth_production</jdbc-url>
+      <user-name>myapp</user-name>
+      <user-password>dfc7dfd3dfcbdfdadfda</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
